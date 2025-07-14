@@ -44,7 +44,7 @@ Output video
 
 <h2>📥 How to Use</h2>
 Clone the repository:
-git clone https://github.com/your-username/nerf-3d-reconstruction.git
+git clone https://github.com/lukky44-bit/3D-Reconstruction-using-NeRF.git
 cd nerf-3d-reconstruction
 Place your input images into the sample_images_input/ folder.
 
