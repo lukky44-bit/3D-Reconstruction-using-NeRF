@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 If you don't have requirements.txt, manually install:
 pip install torch numpy matplotlib imageio imageio-ffmpeg configargparse
-
+```
 
 <h2>🖼️ Sample Results</h2>
 Check the results/ folder to see:
@@ -60,4 +60,3 @@ This project is open-sourced under the MIT License. Feel free to modify and use 
 <h2>🙋‍♂️ Author</h2>
 Lakshan D.
 REVA University | 6th Semester | B.Tech AI & ML
-```
